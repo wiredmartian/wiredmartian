@@ -1,2 +1,2 @@
 
-yes.
+Are you a wizard?
