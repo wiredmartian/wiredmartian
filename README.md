@@ -1,5 +1,5 @@
 
-## Full-Stack Software Engineer
+## Software Engineer
  
 ### Programming Languages & Tools
 <div>
