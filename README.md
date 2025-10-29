@@ -1,5 +1,5 @@
 
-## Software Engineer
+## Senior Software Engineer
  
 ### Programming Languages & Tools
 <div>
@@ -13,10 +13,6 @@
 
 <br/>
   
- ### GiHub Stats ✔
- [![Github Stats By WiredMartian](https://github-readme-stats.vercel.app/api?username=wiredmartian&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wiredmartian&theme=vue-dark" width="48%">
- 
   ### Top Languages ✔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiredmartian&show_icons=true&theme=vue-dark&hide=php,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
