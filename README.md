@@ -14,7 +14,7 @@
 <br/>
   
  ### GiHub Stats ✔
- [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=wiredmartian&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Github Stats By WiredMartian](https://github-readme-stats.vercel.app/api?username=wiredmartian&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wiredmartian&theme=vue-dark" width="48%">
  
   ### Top Languages ✔
